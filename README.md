@@ -1,7 +1,18 @@
-- 👋 Hi, I’m @Anujdev67
-- 👀 I’m interested in Java,Web Development and Open Source
-- 🌱 I’m currently Pursuing B.tech(2020-24)
-- 💞️ I’m looking to collaborate on Open Source projects and Try to learn good stuff.
+👋 Hi, I'm @Anujdev67
+
+👀 I'm interested in Cybersecurity, Cloud Security & SOC Operations
+
+🌱 I'm currently working as a Security Analyst L2 at Wipro | Pursuing SC-200 (Microsoft Security Operations Analyst)
+
+🔭 I work with Microsoft Sentinel, Defender XDR, Splunk, Palo Alto Cortex XDR, SentinelOne & AWS Security
+
+💞️ I'm looking to collaborate on Cybersecurity projects, SIEM detection rules, KQL queries & open source security tools
+
+🎯 Goal: Cloud Security Engineer | Azure Security | Big 4 Consulting
+
+📫 Reach me at: senanuj569@gmail.com
+
+⚡ Fun fact: I automate SOC workflows so analysts can focus on actual threats, not repetitive alerts
 
 
 <!---
